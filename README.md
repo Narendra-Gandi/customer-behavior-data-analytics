@@ -12,7 +12,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](customer_behavior_dashboard)
+![Project Workflow](customer_behavior_dashboard.pbix)
 
 ## 🛠️ How to Use This Project
 
@@ -49,7 +49,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
-- Let’s connect professionally and grow your data career
 
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
